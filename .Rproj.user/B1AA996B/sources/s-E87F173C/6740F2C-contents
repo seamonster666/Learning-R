@@ -1,12 +1,12 @@
 ---
-title: '0306'
+title: '20190306'
 author: "Tony"
 date: "2019年3月6日"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(ec ho = TRUE)
+knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
