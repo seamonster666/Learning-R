@@ -3,14 +3,14 @@
     "contents" : "",
     "created" : 1551862363224.000,
     "dirty" : false,
-    "encoding" : "",
+    "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1248794529",
     "id" : "6B2BA7AA",
-    "lastKnownWriteTime" : 31525674140565611,
-    "last_content_update" : 1551862363224,
-    "path" : null,
-    "project_path" : null,
+    "lastKnownWriteTime" : 1551863158,
+    "last_content_update" : 1551863158033,
+    "path" : "C:/Users/Tony Wu/Desktop/Rpractice/Learning-R/55555555.Rproj",
+    "project_path" : "55555555.Rproj",
     "properties" : {
         "cursorPosition" : "16,0",
         "scrollLine" : "0",
@@ -19,5 +19,5 @@
     "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_markdown"
+    "type" : "text"
 }
